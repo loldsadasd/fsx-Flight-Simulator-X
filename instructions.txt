@@ -1,0 +1,10 @@
+Load up disc 1, normally with any software. 
+then open the setup file in it. 
+it should start doing magic (just wait) then it will ask you some stuff. 
+You can customize or just click next through it. 
+Then it will say insert Disc 2. 
+This is important. Eject disc 1 first (don't worry it won't break). Then load up disc 2 and press ok. Then its done. 
+Now for the crack part. IN the crack folder (both are same), copy all the .dll files and go to the installation folder; Program Files x86 / Microsoft Games / Flight Sim X /. There paste it and confirm replace.
+If you wanna play multiplayer http://www.fsopen.co.uk/info/sessions/ .
+
+For more games visit downloadbytes.com
